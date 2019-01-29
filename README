@@ -1,0 +1,1 @@
+java -cp . -agentpath:/root/testJVMTI/agent/libagent.so  HelloWorld
